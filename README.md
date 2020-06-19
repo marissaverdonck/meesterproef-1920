@@ -7,7 +7,7 @@
 
 Glory Days is een toepassing die door middel van autobiografische muziek herinneringen terughaalt en het levensverhaal van de patiënt vastlegt zodat sociale interactie tussen de patiënt en de verzorger, familie en vrienden makkelijk(er) wordt.
 
-Bekijk [hier de team repository](https://github.com/GloryDaysApp/glorydays) en de [live demo](https://glory-days.herokuapp.com/) van Glory Days.
+Bekijk [hier de repository](https://github.com/GloryDaysApp/glorydays) en de [live demo](https://glory-days.herokuapp.com/) van Glory Days.
 
 ## Omschrijving 
 
