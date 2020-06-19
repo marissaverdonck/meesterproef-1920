@@ -1,4 +1,4 @@
-# Meesterproef @cmda-minor-web 1920
+# Meesterproef - documentatie @cmda-minor-web 1920
 
 
 <img width="500" alt="Schermafbeelding 2020-06-19 om 14 31 31" src="https://user-images.githubusercontent.com/43657951/85132728-a4717380-b239-11ea-88ae-eb2008e6bd0a.png">
