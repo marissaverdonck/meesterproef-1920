@@ -46,6 +46,7 @@ De verzorger zal een nummer opzoeken via de telefoon voor de patiënt. De patië
 Bekijk hier de  [Design Rationale](https://docs.google.com/document/d/1C6x1odMwO2Cvtgix7nsdtX78dHrmNY_EgaVVLOTDGHk/edit) van het team.
 
 ## Product Biografie
+Het individuele proces, de iteraties, de werkwijze en de planning.
 
 * [Week 1](https://github.com/marissaverdonck/meesterproef-1920/wiki/Week-1)
 * [Week 2](https://github.com/marissaverdonck/meesterproef-1920/wiki/Week-2)
