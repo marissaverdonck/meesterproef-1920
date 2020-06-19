@@ -7,6 +7,8 @@
 
 Glory Days is een toepassing die door middel van autobiografische muziek herinneringen terughaalt en het levensverhaal van de patiënt vastlegt zodat sociale interactie tussen de patiënt en de verzorger, familie en vrienden makkelijk(er) wordt.
 
+Bekijk [hier de team repository](https://github.com/GloryDaysApp/glorydays) en de [live demo](https://glory-days.herokuapp.com/) van Glory Days.
+
 ## Omschrijving 
 
 Wereldwijd zijn er zo’n 50 miljoen Alzheimer patiënten. Ook in Nederland is het veel voorkomend. De ziekte treft mensen van uiteenlopende leeftijden, maar vooral ouderen krijgen ermee te maken. Alzheimer zorgt ervoor dat de hersenen worden aangetast, waardoor de persoonlijkheid vervaagd en herinneringen verdwijnen. Helaas is er op dit moment nog geen geneesmiddel voor deze slopende ziekte. 
@@ -22,23 +24,6 @@ Wij hebben de applicatie Glory Days ontwikkeld met als doel om de band tussen vr
 ## Core functionaliteit
 
 De gebruiker moet via een muziek streaming platform nummers kunnen opzoeken en afspelen. Om deze vervolgens te kunnen liken of op te slaan als herinnering. Bij deze herinneringen kan tekst, audio en foto worden toegevoegd. Deze opgeslagen herinneringen en nummers kunnen terug worden gekeken en of geluisterd.
-
-## User scenario
-
-_**Wie is de gebruiker?**_ \
-Een Alzheimer patiënt, zijn verzorg(st)ers, familieleden en vrienden.
-
-_**Wat wil de gebruiker?**_ \
-Herinneringen opslaan en ophalen door middel van muziek.
-
-_**Waar gaat de gebruiker het gebruiken?**_ \
-Thuis of buiten (in de buurt van het huis).
-
-_**Waarom wil de gebruiker het gebruiken?**_ \
-De band tussen vrienden, familie of verzorger versterken door middel van het ophalen van herinneringen met muziek. Om de emotionele toestand positief te beïnvloeden. Om cognitieve vaardigheden minder hard af te laten glijden.
-
-_**Hoe gaat de gebruiker het gebruiken?**_ \
-De verzorger zal een nummer opzoeken via de telefoon voor de patiënt. De patiënt krijgt optioneel bijbehorende afbeeldingen, video en of audio te zien en of horen. Bij de juiste muziek kunnen gerelateerde herinneringen op worden gehaald en vast worden gelegd binnen de app. Herinneringen kunnen te allen tijde terug worden gekeken. 
 
 # Documentatie
 
