@@ -26,6 +26,7 @@ Wij hebben de applicatie Glory Days ontwikkeld met als doel om de band tussen vr
 ## Design Rationale
 Bekijk hier de  [Design Rationale](https://docs.google.com/document/d/1C6x1odMwO2Cvtgix7nsdtX78dHrmNY_EgaVVLOTDGHk/edit) van het team.
 
+
 ## Product Biografie
 Het individuele proces, de iteraties, de werkwijze en de planning.
 
@@ -37,4 +38,4 @@ Het individuele proces, de iteraties, de werkwijze en de planning.
 
 ## Reflectie
 
-* [Reflectie](https://github.com/marissaverdonck/meesterproef-1920/wiki/Reflectie-1)
+* [Reflectie](https://github.com/marissaverdonck/meesterproef-1920/wiki/Reflectie)
